@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "772023593053",
+    "firebase_url": "https://poketunes-eb0e0.firebaseio.com",
+    "project_id": "poketunes-eb0e0",
+    "storage_bucket": "poketunes-eb0e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772023593053:android:d6a8a286d5b0e2b59345b4",
+        "android_client_info": {
+          "package_name": "com.dutchappfarm.poketunes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772023593053-5a39j7gj5tf6g1611ch7qdspcctm0ctj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvMjh3MxCWzyZyhXnTE7trYHurcQOTJ-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772023593053-5a39j7gj5tf6g1611ch7qdspcctm0ctj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
